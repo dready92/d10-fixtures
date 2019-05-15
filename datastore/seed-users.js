@@ -10,7 +10,7 @@ db.users.insert({
   "depth": 1,
   "login": "user1",
   "parent": null,
-  "password": "4e1243bd22c66e76c2ba9eddc1f91394e57f9f83",
+  "password": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
   "playlists": [
   ],
   "sessions": [
